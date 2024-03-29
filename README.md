@@ -19,7 +19,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </div>
 <div id="bio-text">
-  <h2>О себе:</h2>
+  <h2>О себе</h2>
   <ul>
     <li><p>Студент ДГТУ по направлению <b>"Программная инженерия"</b> (2 курс)</p></li>
     <li><p>Закончил курс переподготовки <b>"Оператор ЭВМ"</b></p></li>
@@ -27,3 +27,4 @@
     <li><p>Получил сертификаты <b>SoloLearn</b> о прохождении основ C++</p></li>
   </ul>
 </div>
+<h2>Мои проекты</h2>
