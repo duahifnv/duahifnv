@@ -23,13 +23,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duahifnv&theme=tokyonight" alt="mystreak"/>
 </div>
 
-<div id="bio-text">
+<div class="bio-text">
   <h2>О себе</h2>
   <ul>
     <li><p>Студент ДГТУ по направлению <b>"Программная инженерия"</b> (3 курс)</p></li>
     <li><p>Закончил курс переподготовки <b>"Оператор ЭВМ"</b></p></li>
     <li><p>Закончил курс переподготовки <b>"Искусственный интеллект"</b></p></li>
-    <li><p>Получил сертификаты <b>SoloLearn</b> о прохождении основ C++</p></li>
   </ul>
 </div>
-<h2>Мои проекты</h2>
+<div class="project-list">
+  <h2>Мои проекты</h2>
+</div>
