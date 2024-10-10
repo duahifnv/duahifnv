@@ -19,7 +19,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </div>
 <div class="join-stats">
-  <h3>Статистика посещений</h3>
+  <h3>Статистика коммитов</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duahifnv&theme=tokyonight" alt="mystreak"/>
 </div>
 
